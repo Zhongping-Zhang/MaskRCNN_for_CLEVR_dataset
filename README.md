@@ -36,6 +36,7 @@ visualize
 ```sh
 python test_clevr.py
 ```
+Our code is based on the [TORCHVISION OBJECT DETECTION FINETUNING TUTORIAL](https://pytorch.org/tutorials/intermediate/torchvision_tutorial.html) .
 
 
 
