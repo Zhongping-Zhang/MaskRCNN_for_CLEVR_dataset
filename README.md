@@ -1,6 +1,6 @@
 # MaskRCNN_for_CLEVR_dataset
 
-![alt text](http://url/to/img.png)
+![alt text](maskrcnn_clevr.png)
 
 
 ## Set up environment
