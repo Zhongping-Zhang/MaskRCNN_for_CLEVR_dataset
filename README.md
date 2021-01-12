@@ -1,4 +1,4 @@
-# MASKRCNN-CLEVR
+# MaskRCNN_for_CLEVR_dataset
 
 
 
@@ -36,4 +36,3 @@ visualize
 python test_clevr.py
 ```
 
-# MaskRCNN_for_CLEVR_dataset
