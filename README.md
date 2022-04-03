@@ -1,5 +1,5 @@
 # MaskRCNN_for_CLEVR_dataset
-Pytorch implementation of MaskRCNN on CLEVR dataset.
+Pytorch implementation of Mask RCNN on CLEVR dataset.
 ![alt text](maskrcnn_clevr.png)
 
 
