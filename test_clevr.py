@@ -2,7 +2,7 @@
 """
 Created on Thu Dec 31 10:24:25 2020
 
-@author: ZZPzz
+@author: zhongping zhang
 """
 
 from dataset import *
