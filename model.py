@@ -2,7 +2,7 @@
 """
 Created on Wed Dec 30 00:12:15 2020
 
-@author: ZZPzz
+@author: zhongping zhang
 """
 
 import torchvision
