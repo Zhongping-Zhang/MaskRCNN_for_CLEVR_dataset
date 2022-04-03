@@ -2,7 +2,7 @@
 """
 Created on Tue Dec 29 22:31:28 2020
 
-@author: ZZPzz
+@author: zhongping zhang
 """
 import os
 import glob
